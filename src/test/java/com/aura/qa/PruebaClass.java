@@ -141,7 +141,7 @@ public class PruebaClass {
 	}
 	
 	
-//Descomentar lo siguiente para que se cierre el navegador al terminar.	
+//Descomentar lo siguiente para que se cierre el navegador al terminar
 /*	
 
 	@AfterAll
